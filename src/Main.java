@@ -17,5 +17,6 @@ public class Main {
 
         String fixedFullName_2 = fullName_2.replace("ё", "е");
         System.out.println("Данные ФИО сотрудника — " + fixedFullName_2);
+        System.out.println("Задачи выполнены");
     }
 }
